@@ -1,2 +1,2 @@
-# Venda de carros
-Este projeto será sobre um sistema de venda de carros, utilizando o framework NestJS
+# Carros
+Este projeto será sobre um sistema de cadastro e venda de carros, utilizando o framework NestJS.
